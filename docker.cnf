@@ -1,0 +1,4 @@
+[mysqld]
+user = mysql
+datadir = /var/lib/mysql
+lower_case_table_names=1
